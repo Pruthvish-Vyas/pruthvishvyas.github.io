@@ -42,4 +42,4 @@ Builder at the intersection of data and strategy. Built and operate [CycleScopeX
 
 ## Connect
 
-📪[LinkedIn](https://linkedin.com/in/pruthvishvyas) · 🌐 [Website](https://pruthvishvyas.com)
+📪[LinkedIn](https://linkedin.com/in/pruthvishvyas)  ·  🌐 [Website](https://pruthvishvyas.com)  ·  📰 [Substack-Newsletter](https://substack.com/@pruthvishvyas)
