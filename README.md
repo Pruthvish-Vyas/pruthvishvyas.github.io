@@ -21,7 +21,7 @@ Builder at the intersection of data and strategy. Built and operate [CycleScopeX
 ---
 ## Professional Highlights
 
-### **Independent Product Strategist & Developer (Apr 2024 – Present)**
+### **Independent Data Analyst & SaaS Builder (Jan 2025 – Present)**
 - Building and operating data-centric products independently. Core work involves quantitative analysis, iterative product development, and translating data findings into viable business tools.
 
 ### **Insights Intern, IIMA Ventures (Aug 2024)**
