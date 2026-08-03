@@ -13,7 +13,7 @@ Builder at the intersection of data and strategy. Built and operate [CycleScopeX
 ---
 
 ## Projects — Quant & Data Science
-<!-- Add your projects here -->
+
 **__[Master Data Science Portfolio](https://github.com/pruthvishvyas/Data-Science-Portfolio)__**
 - A curated collection of data science projects spanning quantitative analysis, machine learning, and market research. Each project is built around a real problem with a defined analytical approach and reproducible output.
 
